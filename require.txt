@@ -20,4 +20,8 @@ nltk
 spacy
 transformers
 opencv-python
-
+pandas
+numpy
+scikit-learn
+streamlit
+matplotlib
